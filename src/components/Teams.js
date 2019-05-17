@@ -27,7 +27,7 @@ export default class Teams extends Component {
         const { match, location } = this.props
 
         return (
-            <div className='container two-columns'>
+            <div className='container two-column'>
                 <Sidebar
                     title='Teams'
                     list={teamNames}

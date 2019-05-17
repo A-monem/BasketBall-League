@@ -109,7 +109,6 @@ a {
 
 .sidebar-list {
   display: flex;
-  padding: 10px;
   flex-direction: column;
   padding: 0;
 }
