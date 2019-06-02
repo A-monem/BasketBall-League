@@ -32,10 +32,10 @@ https://learn.tylermcginnis.com/courses/
 ## Screenshots
 
 ![Home page screenshot](/screenshots/Capture.PNG)
-```
-```
+---
 ![Home screenshot](/screenshots/Capture2.PNG)
-```
-```
+---
 ![Players screenshot](/screenshots/Capture3.PNG)
+---
 ![Teams screenshot](/screenshots/Capture4.PNG)
+---
