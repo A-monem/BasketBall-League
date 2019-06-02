@@ -4,7 +4,7 @@
 
 2.Cd to BasketBall-League
 
-3.Run the command "npm run start"
+3.Run the command "npm start"
 
 4.Open localhost:3000
 
